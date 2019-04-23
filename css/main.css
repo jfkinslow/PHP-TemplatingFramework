@@ -1,0 +1,23 @@
+.container header {
+    display: flex;
+    justify-content: space-around;
+}
+.container header nav {
+    display: flex;
+    width: 75%;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.container header nav a:hover {
+    color: white;
+    background: black;
+}
+
+.container header nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding: 20px 10px;
+}
