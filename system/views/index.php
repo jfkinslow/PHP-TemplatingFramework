@@ -1,4 +1,5 @@
 <?php
+$title = "Home"
 require_once('./system/views/stubs/header.php');
 ?>
 <div class="content">
